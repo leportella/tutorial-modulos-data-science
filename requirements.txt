@@ -1,0 +1,11 @@
+# Ambiente de desenvolvimento
+ipython
+jupyter
+
+# Módulos de análise
+numpy
+pandas
+
+# Módulos de visualizaço
+matplotlib
+seaborn
