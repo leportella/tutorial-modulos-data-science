@@ -3,6 +3,8 @@
 Autoras: @leportella @jtemporal
 
 
+[SLIDES AQUI :)](http://slides.com/leticiaportella/tutorial-analise-numerica)
+
 ## Descrição
 
 Numpy, Pandas, Matplotlib... os módulos de análise de dados são inúmeros! E suas potencialidades também! Vamos mostrar como ler planilhas, separar dados, criar gráficos e fazer uma série de análises usando um pouquinho de cada método. O objetivo deste tutorial é ter uma ideia de por onde começar a analisar dados!
