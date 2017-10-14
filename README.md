@@ -26,3 +26,7 @@ Numpy, Pandas, Matplotlib... os módulos de análise de dados são inúmeros! E 
 * Análises estatísticas básicas (média, moda, mediana, desvio padrão...)
 * Trabalhando com dados inexistentes (substituição de dados, NaN, interpolação linear)
 * Desenvolvimento de gráficos (histograma, análise no tempo, gráficos com dois eixos...)
+
+## Outras informações
+
+Dentro da pasta web temos páginas HTML para cada um dos notebooks. Então para fácil visualização não interativa você pode usar apenas o seu navegador favorito e ler o conteudo dos notebooks sem precisar do jupyter.
